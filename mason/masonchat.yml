@@ -1,0 +1,12 @@
+os:
+  name: dzone-webinar
+  version: latest
+  configurations:
+    mason-management:
+      direct_boot_package: com.masonx.masonchat
+      disable_keyguard: true
+
+apps:
+  - name: MasonChat
+    package_name: com.masonx.masonchat
+    version_code: 5

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="serviceUri">ws://10.4.21.245:8080/chat</string>
+</resources>
